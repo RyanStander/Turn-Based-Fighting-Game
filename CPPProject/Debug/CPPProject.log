@@ -1,0 +1,17 @@
+﻿  button.cpp
+  character.cpp
+  FightScene.cpp
+  Game.cpp
+D:\Saxion Work\Classes\C++\CPPProject\CPPProject\Game.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gameObject.cpp
+  GameOver.cpp
+  Main.cpp
+  MainMenu.cpp
+  quitButton.cpp
+  scene.cpp
+  sceneHandler.cpp
+  SkillScene.cpp
+  spriteObject.cpp
+  textObject.cpp
+  Generating Code...
+  CPPProject.vcxproj -> D:\Saxion Work\Classes\C++\CPPProject\Debug\CPPProject.exe

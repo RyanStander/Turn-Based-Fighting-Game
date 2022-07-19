@@ -1,0 +1,9 @@
+﻿  Game.cpp
+D:\Saxion Work\Classes\C++\CPPProject\CPPProject\Game.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SkillScene.cpp
+  Generating code
+  23 of 1033 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    19 functions were new in current compilation
+    36 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CPPProject.vcxproj -> D:\Saxion Work\Classes\C++\CPPProject\Release\CPPProject.exe
